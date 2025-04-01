@@ -1,4 +1,4 @@
-# Disease Risk Prediction using Natural Language Processing
+# Property Type Classification using Natural Language Processing
 
 ## Course: NLP (Semester 6) - Pillai College of Engineering
 
