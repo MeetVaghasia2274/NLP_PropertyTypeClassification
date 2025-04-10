@@ -37,7 +37,7 @@ The Property Type Classification project aims to classify property into differen
   - Convolutional Neural Networks (CNN)
   - LSTM (Long Short-Term Memory)
 * Language Models:
-  - RoBERTa (Robustly Optimized BERT apporach)
+  - RoBERTa (Robustly Optimized BERT approach)
   - BERT (Bidirectional Encoder Representations from Transformers)
 
 ### Comparative Analysis:
