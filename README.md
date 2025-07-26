@@ -1,11 +1,8 @@
 # Property Type Classification using Natural Language Processing
 
-## Course: NLP (Semester 6) - Pillai College of Engineering
-
 ### Project Overview:
 
-This project is part of the **Natural Language Processing (NLP)** course for **Semester 6** students at **Pillai College of Engineering**. The project focuses on **Property Type Prediction**, where we apply various **Machine Learning (ML)**, **Deep Learning (DL)**, and **Language Models** to classify individuals into residential, commercial and industrial categories based on the property features. This involves exploring techniques such as text preprocessing, feature extraction, model training, and evaluation to assess the effectiveness of different models in predicting property type and improving personalized property recommendations.
-You can learn more about the college by visiting the official website of [Pillai College of Engineering](https://www.pce.ac.in/).
+The project focuses on **Property Type Prediction**, where we apply various **Machine Learning (ML)**, **Deep Learning (DL)**, and **Language Models** to classify individuals into residential, commercial and industrial categories based on the property features. This involves exploring techniques such as text preprocessing, feature extraction, model training, and evaluation to assess the effectiveness of different models in predicting property type and improving personalized property recommendations.
 
 ### Acknowledgements:
 We would like to express our sincere gratitude to the following individuals:
